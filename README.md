@@ -2,7 +2,7 @@
 
 ## 1 Introduction
 
-`extract_specific_sites_from_msa` is a tool to extract specific lines which maps the query ids (of the query file) from the subject file.
+`extract_specific_sites_from_msa` is a tool to extract some sites (or codon) from a multiple sequence alignment.
 
 ## 2 Installation
 
