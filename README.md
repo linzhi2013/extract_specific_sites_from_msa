@@ -37,10 +37,10 @@ There will be a command `extract_specific_sites_from_msa` created under the same
                             or multiple lines.
       -codon <int>          codon site to be extracted [2]
         
-## Author
+## 4 Author
 Guanliang MENG
 
-## Citation
+## 5 Citation
 Currently I have no plan to publish `extract_specific_sites_from_msa`.
 
 However, since `extract_specific_sites_from_msa` makes use of Biopython, you should cite it if you use msaconverter in your work:
