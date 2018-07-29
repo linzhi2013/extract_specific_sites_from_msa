@@ -43,7 +43,7 @@ Guanliang MENG
 ## Citation
 Currently I have no plan to publish `extract_specific_sites_from_msa`.
 
-However, since msaconverter makes use of Biopython, you should cite it if you use msaconverter in your work:
+However, since `extract_specific_sites_from_msa` makes use of Biopython, you should cite it if you use msaconverter in your work:
 
     Peter J. A. Cock, Tiago Antao, Jeffrey T. Chang, Brad A. Chapman, Cymon J. Cox, Andrew Dalke, Iddo Friedberg, Thomas Hamelryck, Frank Kauff, Bartek Wilczynski, Michiel J. L. de Hoon: “Biopython: freely available Python tools for computational molecular biology and bioinformatics”. Bioinformatics 25 (11), 1422–1423 (2009). https://doi.org/10.1093/bioinformatics/btp163
 Please go to http://www.biopython.org/ for more details.
