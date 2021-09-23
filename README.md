@@ -41,7 +41,7 @@ There will be a command `extract_specific_sites_from_msa` created under the same
 Guanliang MENG
 
 ## 5 Citation
-Currently I have no plan to publish `extract_specific_sites_from_msa`.
+Currently I have no plan to publish `extract_specific_sites_from_msa`. **However, if you use this program in your analysis, or you "steal" the idea/codes of this program into your script, I should be one of the co-authors in your publication!!!**
 
 However, since `extract_specific_sites_from_msa` makes use of Biopython, you should cite it if you use `extract_specific_sites_from_msa` in your work:
 
